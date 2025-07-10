@@ -1,0 +1,6 @@
+<svg width="120" height="180" viewBox="0 0 120 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="120" height="180" fill="#F3F4F6"/>
+<rect x="10" y="10" width="100" height="160" stroke="#D7DDE7" stroke-width="2" fill="white"/>
+<text x="60" y="85" font-family="Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">No Image</text>
+<text x="60" y="105" font-family="Arial, sans-serif" font-size="10" fill="#9CA3AF" text-anchor="middle">Available</text>
+</svg>
